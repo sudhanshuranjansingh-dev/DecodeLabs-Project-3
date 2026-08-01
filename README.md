@@ -57,15 +57,21 @@ The following data cleaning tasks were performed:
 
 The following analyses were performed:
 
-* Counted total orders
-* Calculated total sales
-* Calculated average order value
-* Found the highest and lowest order values
-* Calculated total quantity sold for each product
-* Counted orders by payment method
-* Counted orders by referral source
-* Calculated total sales by order status
-* Identified products with high sales quantities
+Display all orders.
+Display only delivered orders.
+Find all Laptop orders.
+Sort orders by TotalPrice (highest to lowest).
+Count the total number of orders.
+Count orders for each product.
+Calculate total sales.
+Calculate average order value.
+Find the highest-priced order.
+Find the lowest-priced order.
+Find total quantity sold for each product.
+Show products with more than 100 units sold (HAVING).
+Count orders by payment method.
+Count orders by referral source.
+Find total sales for each order status.
 
 ---
 
